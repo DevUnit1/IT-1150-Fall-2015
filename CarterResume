@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Resume</title>
+</head>
+
+<body>
+<h1>Jesse A. Carter</h1>
+
+<h4>
+<a href="mailto:main@jessecarteronline.com">main@jessecarteronline.com</a></h4>
+
+<p>676 Columbus Road<br>
+Bedford, Ohio 444146
+</p>
+
+<hr>
+<h2>Summary</h2>
+
+<p>
+Innovative and experienced IT Professional with strong and diverse background in multiple areas of information technology; specifically web-development, programming, and familiarity with a wide array of software. Educated, experienced, and quick learner with a firm technical aptitude and a solid work ethic. Well-rounded, with expertise in math, science, and the arts. 
+</p>
+
+<h2>Education</h2>
+
+<b>Cuyahoga Community College - Aug 2013 to Present </b>| GPA: 3.78, Major: Web Development
+
+<li>Proficient with wide variety of software; familiarity with multiple programming languages
+<li>Gained a broad knowledge of networking, programming, web development, and SQL.
+<li>Courses included information technology, journalism, calculus, and chemistry
+
+<h2>Experience</h2>
+
+<b>Enforsys Systems, Inc. - June 2015 to Present
+</b>| Systems Analyst
+
+<li>Managed client/server functionality for use with emergency response software
+<li>Maintained and updated SQL databases and installed software updates
+<li>Regularly communicated with police, fire, and EMS jurisdictional for enhancement requests<br><br>
+  
+<b>Key Corporation - May 2013 to June 2015 </b>| Online Banking Associate<li>Handled technical support for Online  Banking and Bill-Pay Systems
+
+<li>Assisted  with mobile devices, tablets, laptops, and computer software issues
+<li>Guided clients with software  navigation and funds transfer functionalities<br><br>
+
+<b>The TWR Recording Company - 1999 to 2013 </b>| Owner
+
+<li>Managed all operations: recording, production, graphics, finance, advertising, and web presence
+<li>Engaged in all aspects of audio engineering for regional artists and musicians; recording, mixing
+<li>Handled all aspects of communication with clients to assist them in career advancement<br><br><br>
+
+<hr>
+
+<h2>Accomplishments</h2>
+
+<li>Member of Phi Theta Kappa
+<li>Purchased and renovated first home in 2008
+<li>Developed <A HREF="www.twrrecording.com">TWR Recording</A> website as well as many others
+
+</body>
+</html>
+<p>
